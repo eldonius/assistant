@@ -3,7 +3,7 @@ import datetime
 
 Name = ""
 minlength = 0
-maxlength = 9999
+maxlength = 255
 excluded = ""
 timeout = 1000000
 Help = {"help", "commands"}
